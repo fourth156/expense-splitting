@@ -1,5 +1,5 @@
-import { Theme, defaultTheme } from 'evergreen-ui'
+import { Theme, defaultTheme } from 'evergreen-ui';
 
 export const WhiteTheme: Theme = {
-  ...defaultTheme
-}
+  ...defaultTheme,
+};
